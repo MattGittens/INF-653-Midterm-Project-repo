@@ -1,11 +1,11 @@
 <?php
 class Database{
     //DB Params
-    private $host = 'localhost';
+    private $host = 'dpg-cgdqv002qv2bbhl90qb0-a';
     private $port = '5432';
-    private $db_name = 'quotesdb';
-    private $username = 'postgres';
-    private $password = 'postgres';
+    private $db_name = 'quotesdb_tsjq';
+    private $username = 'quotesdb_tsjq';
+    private $password = 'quotesdb_tsjq_user';
     private $conn;
 
     // DB Connect
